@@ -7,18 +7,24 @@ useful aliases for launching editors for config files
 
 #### start-polybar.sh
 *args: number between 1 and 11*
+
 installs and launches the specified polybar.
 
 #### start-xscreen.sh
 *args: name of the screensaver*
+
 launches the specified sceeensaver as the wallapaper
 
 ## Configs
 #### i3-special-mode.conf
 *installation: put it in your i3 config file*
+
 usage: **$mod+o** to enter the special mode
+
 **s** to copy "¯\_(ツ)_/¯" into the clipborard
+
 **e** enter emoji mode
+
 **f** copy "∈" into the clipboard
 
 #### nvim-launcher.vim
