@@ -1,5 +1,5 @@
 # LinuxTools
-A Collection Of Scripts I Found Or Made, along with tips and tricks.
+A Collection Of Scripts I Found Or Made, along with tips and tricks, packages, and other useful stuff!
 
 ## Scripts
 #### config-aliases.sh
