@@ -1,0 +1,8 @@
+bindsym $mod+o mode "spec"
+
+mode "spec" {
+    bindsym s exec --no-startup-id echo -n '¯\_(ツ)_/¯' | xclip -selection c
+    bindsym e exec --no-startup-id rofi -show emoji -modi emoji
+    bindsym f exec --no-startup-id echo -n '∈' | xclip -selection c
+    bindsym Escape mode "default"
+}
